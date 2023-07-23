@@ -1,7 +1,7 @@
 # Rainfall-Bar-graph
 # Rainfall Explorer
 
-![Rainfall Explorer](/path/to/cover-image.png)
+
 
 ## Overview
 
@@ -78,20 +78,15 @@ Our mission at Rainfall Explorer is to provide easy access to comprehensive rain
 - Data Visualization: Plotly.js
 - Axios: For making API requests
 
-## Preview
 
-![Preview](/path/to/preview-image.png)
 
 ## License
 
-This project is licensed under the [MIT License](/path/to/license-file).
+This project is licensed under the developer
 
-## Acknowledgments
-
-- Special thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the rainfall data API.
 
 ## Contact
 
-For any inquiries or feedback, please contact us at example@email.com.
+For any inquiries or feedback, please contact us at akshaykharate08@email.com.
 
 We hope you enjoy using Rainfall Explorer and find it helpful in exploring and understanding rainfall data in India!
