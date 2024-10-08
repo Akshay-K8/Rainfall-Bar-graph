@@ -3,7 +3,10 @@
 ## 🌍 Overview
 
 **Rainfall Explorer** is a web application that allows users to explore annual rainfall data for different states in India. The application provides **interactive visualizations** and **beautiful charts** to help users analyze and understand rainfall patterns over time.
-
+---
+## 🌟 Frontend Preview
+![Frontend](rainfall/build/Frontend.png)
+---
 This project consists of both **frontend** and **backend** components. The frontend is built using **React**, while the backend is developed with **Flask**. The data is fetched from a **RESTful API** and displayed in an intuitive and user-friendly interface.
 
 ## ✨ Features
