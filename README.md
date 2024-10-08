@@ -1,8 +1,7 @@
 # ☔ Rainfall Explorer
 
 ## 🌍 Overview
-
-**Rainfall Explorer** is a web application that allows users to explore annual rainfall data for different states in India. The application provides **interactive visualizations** and **beautiful charts** to help users analyze and understand rainfall patterns over time.
+- **Rainfall Explorer** is a web application that allows users to explore annual rainfall data for different states in India. The application provides **interactive visualizations** and **beautiful charts** to help users analyze and understand rainfall patterns over time.
 ---
 ## 🌟 Frontend Preview
 ![Frontend](rainfall/build/Frontend.png)
