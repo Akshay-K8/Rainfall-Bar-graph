@@ -1,7 +1,4 @@
-# Rainfall-Bar-graph
 # Rainfall Explorer
-
-
 
 ## Overview
 
@@ -76,17 +73,5 @@ Our mission at Rainfall Explorer is to provide easy access to comprehensive rain
 - Frontend: React, HTML, CSS
 - Backend: Flask, Python
 - Data Visualization: Plotly.js
-- Axios: For making API requests
+- REST: For making API requests
 
-
-
-## License
-
-This project is licensed under the developer
-
-
-## Contact
-
-For any inquiries or feedback, please contact us at akshaykharate08@email.com.
-
-We hope you enjoy using Rainfall Explorer and find it helpful in exploring and understanding rainfall data in India!
